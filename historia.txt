@@ -2,5 +2,4 @@ Hola soy Freddy Mendoza
 Soy ingeniero de sistemas
 Estoy aprendiendo git 
 Y me parece genial 
-Tengo 39 años y vivi en Colombia.
-Esta es la historia de tu vida
+Mañana nos enfocaremos en tu vida laboral.
